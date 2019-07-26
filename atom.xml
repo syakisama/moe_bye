@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-07-26T18:04:42.274Z</updated>
+    <updated>2019-07-26T18:06:24.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.fli.moe"/>
     <link rel="self" href="https://www.fli.moe/atom.xml"/>
@@ -16,10 +16,10 @@
         <link href="https://www.fli.moe/post/Nice-to-meet-you">
         </link>
         <updated>2019-07-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564162280102.jpg" alt="初次见面，请多多关照w"><br>
+        <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
 你好呀，这里是廈奈关爱协会重点关注对象廈奈的小窝(个人博客)，初次见面，请多多关照w</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564162280102.jpg" alt="初次见面，请多多关照w"><br>
+        <content type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
 你好呀，这里是廈奈关爱协会重点关注对象廈奈的小窝(个人博客)，初次见面，请多多关照w</p>
 <!-- more -->
 <h2 id="写在前面-关于恶魔喵moe">写在前面: 关于恶魔喵Moe</h2>
