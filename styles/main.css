@@ -78,6 +78,21 @@
 body {
   background-image: url('../media/images/geometry2.png');
 }
+.post-content a {
+  color: #0071de;
+  background-image: none;
+  transition: all 0.4s;
+}
+.article-title a {
+  color: #41403e;
+  background-image: none;
+  transition: all 0.4s;
+}
+.post-content a:hover,
+.article-title a:hover {
+  color: #0071de;
+  background-color: rgba(0, 113, 222, 0.1);
+}
 #top {
   max-width: 1440px;
   margin-top: 3rem;
@@ -94,8 +109,19 @@ article .article-meta a {
 .sidebar li {
   margin-bottom: 16px;
 }
-.sidebar a.badge {
+.sidebar a {
   background-image: none;
+}
+.sidebar .latest-article {
+  color: #41403e;
+  background-image: none;
+  transition: all 0.4s;
+}
+.sidebar .latest-article:hover {
+  color: #0071de;
+  background-color: rgba(0, 113, 222, 0.1);
+}
+.sidebar a.badge {
   margin: 4px;
   color: #ffffff;
 }
