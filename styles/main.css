@@ -88,6 +88,9 @@ body {
   background-image: none;
   transition: all 0.4s;
 }
+.post-content {
+  line-height: 1.5;
+}
 .post-content a:hover,
 .article-title a:hover {
   color: #0071de;

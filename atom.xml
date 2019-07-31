@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-07-27T11:50:24.086Z</updated>
+    <updated>2019-07-31T11:27:50.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.fli.moe"/>
     <link rel="self" href="https://www.fli.moe/atom.xml"/>
@@ -11,9 +11,49 @@
     <icon>https://www.fli.moe/favicon.ico</icon>
     <rights>All rights reserved 2019, 奈萌Studio</rights>
     <entry>
-        <title type="html"><![CDATA[[游戏]神话庄园 V0.10.1 PC/安卓 汉化版、存档付]]></title>
-        <id>https://www.fli.moe/post/Mythic-Manor-v-0-10-1</id>
-        <link href="https://www.fli.moe/post/Mythic-Manor-v-0-10-1">
+        <title type="html"><![CDATA[[游戏攻略]神话庄园、收录至V0.10]]></title>
+        <id>https://www.fli.moe/post/mythic_manor_walkthrough</id>
+        <link href="https://www.fli.moe/post/mythic_manor_walkthrough">
+        </link>
+        <updated>2019-07-31T09:59:42.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564567513660.png" alt=""></p>
+<h2 id="摘要">摘要</h2>
+<p>唔，神话庄园这个欧美SLG游戏的话其实是有官方的英文攻略的，英文版文档可以看<a href="https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA">https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA</a> 这个链接的_攻略存档代码.rar_文件(提取码：lnzd,解压密码：天堂巴比伦，里面那个pdf文档就是啦w)<br>
+以下是廈奈奈自己翻译的中文版文档(人物名称及地点以巴比伦汉化组翻译的为准)，咳咳就相当于更新自己的博客啦w</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564567513660.png" alt=""></p>
+<h2 id="摘要">摘要</h2>
+<p>唔，神话庄园这个欧美SLG游戏的话其实是有官方的英文攻略的，英文版文档可以看<a href="https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA">https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA</a> 这个链接的_攻略存档代码.rar_文件(提取码：lnzd,解压密码：天堂巴比伦，里面那个pdf文档就是啦w)<br>
+以下是廈奈奈自己翻译的中文版文档(人物名称及地点以巴比伦汉化组翻译的为准)，咳咳就相当于更新自己的博客啦w</p>
+<!-- more --> 
+<h2 id="攻略-主要人物庄园">攻略 - 主要人物(庄园)</h2>
+<ul>
+<li><a href="/post/mythic_manor_walkthrough_esther/" title="埃斯特">埃斯特</a></li>
+<li><a href="/post/mythic_manor_walkthrough_fanora/" title="芙萝拉">芙萝拉</a></li>
+<li><a href="/post/mythic_manor_walkthrough_naira/" title="奈拉">奈拉</a></li>
+<li><a href="/post/mythic_manor_walkthrough_nefari/" title="奈法瑞">奈法瑞</a></li>
+<li>贝利（正在翻译）</li>
+</ul>
+<h2 id="攻略-主要人物公园">攻略 - 主要人物(公园)</h2>
+<ul>
+<li>小玉（正在翻译）</li>
+</ul>
+<h2 id="攻略-主要人物哞哞农场">攻略 - 主要人物(哞哞农场)</h2>
+<ul>
+<li>杰莎（正在翻译）</li>
+</ul>
+<h2 id="攻略-其他人物可增加好感度">攻略 - 其他人物(可增加好感度)</h2>
+<ul>
+<li>娜塔莎(超市)</li>
+<li>塞伦(咖啡馆晚上)</li>
+<li>卡门(宠物商店)</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[游戏]神话庄园 V0.10 PC/安卓 汉化版、存档付]]></title>
+        <id>https://www.fli.moe/post/mythic_manor_v0_10</id>
+        <link href="https://www.fli.moe/post/mythic_manor_v0_10">
         </link>
         <updated>2019-07-27T11:04:03.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
@@ -54,7 +94,7 @@
 <img src="https://www.fli.moe/post-images/Mythic-Manor-v0.10.1.map.jpg" alt="游戏底图"><br>
 其他的图嘛，就不放啦。放心啦，廈奈奈应该不会坑你们哒。</p>
 <h2 id="下载地址">下载地址</h2>
-<p>解压密码出现问题的麻烦试试：<strong>天堂巴比伦</strong>，不然默认就用解压码文档里面的解压码w</p>
+<p>解压密码出现问题的麻烦试试：<strong>天堂巴比伦</strong>，不然默认就用解压码文档里面的解压密码w</p>
 <p>安卓<br>
 链接：<a href="https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA">https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA</a><br>
 提取码：lnzd</p>
@@ -65,8 +105,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[嗝, 这里是廈奈奈的小窝]]></title>
-        <id>https://www.fli.moe/post/Nice-to-meet-you</id>
-        <link href="https://www.fli.moe/post/Nice-to-meet-you">
+        <id>https://www.fli.moe/post/nice_to_meet_you</id>
+        <link href="https://www.fli.moe/post/nice_to_meet_you">
         </link>
         <updated>2019-07-26T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
