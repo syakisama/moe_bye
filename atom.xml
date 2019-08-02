@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-07-31T11:33:26.470Z</updated>
+    <updated>2019-08-02T03:48:59.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.fli.moe"/>
     <link rel="self" href="https://www.fli.moe/atom.xml"/>
@@ -32,11 +32,11 @@
 <li><a href="/post/mythic_manor_walkthrough_fanora/" title="芙萝拉">芙萝拉</a></li>
 <li><a href="/post/mythic_manor_walkthrough_naira/" title="奈拉">奈拉</a></li>
 <li><a href="/post/mythic_manor_walkthrough_nefari/" title="奈法瑞">奈法瑞</a></li>
-<li>贝利（正在翻译）</li>
+<li><a href="/post/mythic_manor_walkthrough_velle/" title="贝利">贝利</a></li>
 </ul>
 <h2 id="攻略-主要人物公园">攻略 - 主要人物(公园)</h2>
 <ul>
-<li>小玉（正在翻译）</li>
+<li><a href="/post/mythic_manor_walkthrough_jade/" title="小玉">小玉</a></li>
 </ul>
 <h2 id="攻略-主要人物哞哞农场">攻略 - 主要人物(哞哞农场)</h2>
 <ul>
@@ -47,6 +47,35 @@
 <li>娜塔莎(超市)</li>
 <li>塞伦(咖啡馆晚上)</li>
 <li>卡门(宠物商店)</li>
+</ul>
+<h2 id="v010版本作弊代码">V0.10版本作弊代码</h2>
+<p>金钱部分：</p>
+<ul>
+<li>获得$1000：mythmoney</li>
+<li>获得$10000：mythmazuma</li>
+<li>获得￥999999：mythmoola</li>
+<li>获得MasturChat 100000积分：boobtokens（就是你在超市垃圾桶可以捡到一张传单，然后传单上面是一个视频聊天的广告嘛，然后回到你的房间，电脑的浏览器那边就会有视频聊天的选项啦，这个积分就是在那边使用的）</li>
+</ul>
+<p>主角技能：</p>
+<ul>
+<li>研究技能点数无限：hiresearch</li>
+<li>变成一个钓鱼超厉害的人(钓鱼技能满级)：masterbaiter</li>
+<li>变成一个超会编故事的人(咳咳，写文章技能满级)：hardworker</li>
+<li>阅片无数(咦？就是有些女孩子的特殊剧情或者特殊选项有看<strong>那种东西</strong>的次数的要求！然后你的阅片次数就会变成100000)：profapper</li>
+</ul>
+<p>一些其他的代码：</p>
+<ul>
+<li>解锁所有电脑壁纸：seenscenes</li>
+<li>增加7天的时间：7days</li>
+<li>修改主角的名字：usernamechange或者namechange</li>
+<li>我不想给小玉钱啦！(直接将捐给小玉的金钱设置为$1200)：ezjade</li>
+<li>让魔法湖变的blingbling(魔法湖会在晚上亮起来)：glowup</li>
+</ul>
+<p>关于杰莎(v0.10版本的新人物)的隐藏代码：</p>
+<ul>
+<li>和杰莎做那种事情又不会让她怀孕：nopill</li>
+<li>和杰莎做那种事情会让她怀孕：fixpill（用来取消激活nopill）</li>
+<li>如果杰莎怀孕了，立即让她变成不怀孕状态(你是渣男嘛？！)：nomilk</li>
 </ul>
 ]]></content>
     </entry>
