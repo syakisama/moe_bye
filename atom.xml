@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-08-02T03:48:59.126Z</updated>
+    <updated>2019-08-06T11:43:42.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.fli.moe"/>
     <link rel="self" href="https://www.fli.moe/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>https://www.fli.moe/images/avatar.png</logo>
     <icon>https://www.fli.moe/favicon.ico</icon>
     <rights>All rights reserved 2019, 奈萌Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[[日系][养成SLG游戏]1 room - 家出少女v1.06/v1.1]]></title>
+        <id>https://www.fli.moe/post/game-1room-iedesyoujyo-106</id>
+        <link href="https://www.fli.moe/post/game-1room-iedesyoujyo-106">
+        </link>
+        <updated>2019-08-06T10:36:52.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
+<p><img src="https://www.fli.moe/post-images/1565089546845.jpg" alt=""><br>
+你是个每天加班到深夜的苦逼程序猿。<br>
+当有一天晚上回家的时候，突然被一名少女叫住：<br>
+“对，就一周，能不能让我住在叔叔家里…当然，不会白吃白住的…”<br>
+就这样，你和因父母不和而离家出走的少女开始了同居生活。<br>
+当然你俩都知道，孤男寡女同住在一间小屋里面会发生什么事情…<br>
+<img src="https://www.fli.moe/post-images/1565089555505.jpg" alt=""><br>
+<img src="https://www.fli.moe/post-images/1565089559137.jpg" alt=""><br>
+唔，其实游戏还是有些纯爱向的啦，在不同的时间段会有不同的玩法，可以互动、触发事件、使用奇奇怪怪的道具，CV是佐倉もも花</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
+<p><img src="https://www.fli.moe/post-images/1565089546845.jpg" alt=""><br>
+你是个每天加班到深夜的苦逼程序猿。<br>
+当有一天晚上回家的时候，突然被一名少女叫住：<br>
+“对，就一周，能不能让我住在叔叔家里…当然，不会白吃白住的…”<br>
+就这样，你和因父母不和而离家出走的少女开始了同居生活。<br>
+当然你俩都知道，孤男寡女同住在一间小屋里面会发生什么事情…<br>
+<img src="https://www.fli.moe/post-images/1565089555505.jpg" alt=""><br>
+<img src="https://www.fli.moe/post-images/1565089559137.jpg" alt=""><br>
+唔，其实游戏还是有些纯爱向的啦，在不同的时间段会有不同的玩法，可以互动、触发事件、使用奇奇怪怪的道具，CV是佐倉もも花</p>
+<!-- more -->
+<h2 id="注意事项">注意事项</h2>
+<ul>
+<li>目前好像游戏的最高版本是v1.1，不过v1.1廈奈奈这边拿到的是生肉哦，v1.06版本是由绿茶汉化组汉化的(均可以在MacOS和Win7及以上平台运行，安卓只有v1.06的生肉版本)</li>
+<li>呃，解锁CG的话，目前网上攻略还是蛮少的，廈奈奈会在之后整理一下再发出来，建议先根据Album(相册)的标题来进行了解剧情的发展(v1.06版本有全CG存档)</li>
+<li>PC版的存档位置在：C:\Users\用户名\AppData\LocalLow\cultparthia\1room\Utage\Save_1room</li>
+</ul>
+<h2 id="登船地址自己复制到浏览器打开啦">登船地址(自己复制到浏览器打开啦)</h2>
+<p><strong>v1.06版本(生肉/汉化/全CG存档)：</strong><br>
+百度网盘：https://pan.baidu.com/s/1Rzf6wNw3_i0CX1z6s5kgpw<br>
+提取码：168e<br>
+解压密码：yhsxsx<br>
+(PC汉化版请下载<em>1 room汉化版</em>文件夹内的压缩包，其他的均为生肉版)</p>
+<p><strong>v1.1版本(生肉)</strong><br>
+百度网盘：https://pan.baidu.com/s/1-2Pgf__Mw04dxOZp981l4A<br>
+提取码：s93a</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[游戏攻略]神话庄园、收录至V0.10]]></title>
         <id>https://www.fli.moe/post/mythic_manor_walkthrough</id>
