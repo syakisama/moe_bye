@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-08-22T08:40:15.218Z</updated>
+    <updated>2019-08-22T08:45:58.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.fli.moe"/>
     <link rel="self" href="https://www.fli.moe/atom.xml"/>
@@ -16,11 +16,18 @@
         <link href="https://www.fli.moe/post/lkst20-final">
         </link>
         <updated>2019-08-22T08:26:32.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
+<p>这原本是个只限女生的公寓，但是她们去年修改了这个规定…<br>
+在游戏中你扮演一个刚刚进入大学的普通男生，<br>
+因为一场阴差阳错的误会，直接导致你被分进了女生宿舍暂住...<br>
+平时可以和女生一起玩各种游戏，晚上睡觉还可以随意偷袭吃豆腐...</p>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
 <p>这原本是个只限女生的公寓，但是她们去年修改了这个规定…<br>
 在游戏中你扮演一个刚刚进入大学的普通男生，<br>
 因为一场阴差阳错的误会，直接导致你被分进了女生宿舍暂住...<br>
 平时可以和女生一起玩各种游戏，晚上睡觉还可以随意偷袭吃豆腐...</p>
+<!-- more -->
 <h2 id="游戏截图">游戏截图</h2>
 <p><img src="https://www.fli.moe/post-images/1566462930517.png" alt=""><br>
 <img src="https://www.fli.moe/post-images/1566462948098.png" alt=""><br>
