@@ -78,6 +78,10 @@
 body {
   background-image: url('../media/images/geometry2.png');
 }
+a {
+  word-wrap: break-word;
+  word-break: break-all;
+}
 .post-content a {
   color: #0071de;
   background-image: none;
