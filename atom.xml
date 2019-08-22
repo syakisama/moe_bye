@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>F:/Gridea/output</id>
+    <id>https://www.fli.moe</id>
     <title>奈萌Studio</title>
-    <updated>2019-08-22T07:12:12.387Z</updated>
+    <updated>2019-08-22T07:13:08.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="F:/Gridea/output"/>
-    <link rel="self" href="F:/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://www.fli.moe"/>
+    <link rel="self" href="https://www.fli.moe/atom.xml"/>
     <subtitle>这里是廈奈关爱协会重点关注对象廈奈奈的个人博客w</subtitle>
-    <logo>F:/Gridea/output/images/avatar.png</logo>
-    <icon>F:/Gridea/output/favicon.ico</icon>
+    <logo>https://www.fli.moe/images/avatar.png</logo>
+    <icon>https://www.fli.moe/favicon.ico</icon>
     <rights>All rights reserved 2019, 奈萌Studio</rights>
     <entry>
         <title type="html"><![CDATA[[日系][养成SLG游戏]1 room - 家出少女v1.06/v1.1]]></title>
-        <id>F:/Gridea/output/post/game-1room-iedesyoujyo-106/index.html</id>
-        <link href="F:/Gridea/output/post/game-1room-iedesyoujyo-106/index.html">
+        <id>https://www.fli.moe/post/game-1room-iedesyoujyo-106</id>
+        <link href="https://www.fli.moe/post/game-1room-iedesyoujyo-106">
         </link>
         <updated>2019-08-06T10:36:52.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
@@ -28,14 +28,14 @@
 唔，其实游戏还是有些纯爱向的啦，在不同的时间段会有不同的玩法，可以互动、触发事件、使用奇奇怪怪的道具，CV是佐倉もも花</p>
 ]]></summary>
         <content type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
-<p><img src="F:/Gridea/output/post-images/1565089546845.jpg" alt=""><br>
+<p><img src="https://www.fli.moe/post-images/1565089546845.jpg" alt=""><br>
 你是个每天加班到深夜的苦逼程序猿。<br>
 当有一天晚上回家的时候，突然被一名少女叫住：<br>
 “对，就一周，能不能让我住在叔叔家里…当然，不会白吃白住的…”<br>
 就这样，你和因父母不和而离家出走的少女开始了同居生活。<br>
 当然你俩都知道，孤男寡女同住在一间小屋里面会发生什么事情…<br>
-<img src="F:/Gridea/output/post-images/1565089555505.jpg" alt=""><br>
-<img src="F:/Gridea/output/post-images/1565089559137.jpg" alt=""><br>
+<img src="https://www.fli.moe/post-images/1565089555505.jpg" alt=""><br>
+<img src="https://www.fli.moe/post-images/1565089559137.jpg" alt=""><br>
 唔，其实游戏还是有些纯爱向的啦，在不同的时间段会有不同的玩法，可以互动、触发事件、使用奇奇怪怪的道具，CV是佐倉もも花</p>
 <!-- more -->
 <h2 id="注意事项">注意事项</h2>
@@ -66,8 +66,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[游戏攻略]神话庄园、收录至V0.10]]></title>
-        <id>F:/Gridea/output/post/mythic_manor_walkthrough/index.html</id>
-        <link href="F:/Gridea/output/post/mythic_manor_walkthrough/index.html">
+        <id>https://www.fli.moe/post/mythic_manor_walkthrough</id>
+        <link href="https://www.fli.moe/post/mythic_manor_walkthrough">
         </link>
         <updated>2019-07-31T09:59:42.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564567513660.png" alt=""></p>
@@ -75,7 +75,7 @@
 <p>唔，神话庄园这个欧美SLG游戏的话其实是有官方的英文攻略的，英文版文档可以看<a href="https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA">https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA</a> 这个链接的<em>攻略存档代码.rar</em>文件(提取码：lnzd,解压密码：天堂巴比伦，里面那个pdf文档就是啦w)<br>
 以下是廈奈奈自己翻译的中文版文档(人物名称及地点以巴比伦汉化组翻译的为准)，咳咳就相当于更新自己的博客啦w</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="F:/Gridea/output/post-images/1564567513660.png" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/1564567513660.png" alt=""></p>
 <h2 id="摘要">摘要</h2>
 <p>唔，神话庄园这个欧美SLG游戏的话其实是有官方的英文攻略的，英文版文档可以看<a href="https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA">https://pan.baidu.com/s/1fKM7lAjXAi31PmchY9aCZA</a> 这个链接的<em>攻略存档代码.rar</em>文件(提取码：lnzd,解压密码：天堂巴比伦，里面那个pdf文档就是啦w)<br>
 以下是廈奈奈自己翻译的中文版文档(人物名称及地点以巴比伦汉化组翻译的为准)，咳咳就相当于更新自己的博客啦w</p>
@@ -135,8 +135,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[游戏]神话庄园 V0.10 PC/安卓 汉化版、存档付]]></title>
-        <id>F:/Gridea/output/post/mythic_manor_v0_10/index.html</id>
-        <link href="F:/Gridea/output/post/mythic_manor_v0_10/index.html">
+        <id>https://www.fli.moe/post/mythic_manor_v0_10</id>
+        <link href="https://www.fli.moe/post/mythic_manor_v0_10">
         </link>
         <updated>2019-07-27T11:04:03.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="游戏介绍">游戏介绍</h2>
@@ -173,8 +173,8 @@
 <li>更新了魔法湖的事件</li>
 </ul>
 <h2 id="部分截图">部分截图</h2>
-<p><img src="F:/Gridea/output/post-images/Mythic-Manor-v0.10.1.poster.jpg" alt="游戏封面"><br>
-<img src="F:/Gridea/output/post-images/Mythic-Manor-v0.10.1.map.jpg" alt="游戏底图"><br>
+<p><img src="https://www.fli.moe/post-images/Mythic-Manor-v0.10.1.poster.jpg" alt="游戏封面"><br>
+<img src="https://www.fli.moe/post-images/Mythic-Manor-v0.10.1.map.jpg" alt="游戏底图"><br>
 其他的图嘛，就不放啦。放心啦，廈奈奈应该不会坑你们哒。</p>
 <h2 id="下载地址">下载地址</h2>
 <p>解压密码出现问题的麻烦试试：<strong>天堂巴比伦</strong>，不然默认就用解压码文档里面的解压密码w</p>
@@ -188,14 +188,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[嗝, 这里是廈奈奈的小窝]]></title>
-        <id>F:/Gridea/output/post/nice_to_meet_you/index.html</id>
-        <link href="F:/Gridea/output/post/nice_to_meet_you/index.html">
+        <id>https://www.fli.moe/post/nice_to_meet_you</id>
+        <link href="https://www.fli.moe/post/nice_to_meet_you">
         </link>
         <updated>2019-07-26T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
 你好呀，这里是廈奈关爱协会重点关注对象廈奈的小窝(个人博客)，初次见面，请多多关照w</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="F:/Gridea/output/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
+        <content type="html"><![CDATA[<p><img src="https://www.fli.moe/post-images/Nice-to-meet-you.jpg" alt="初次见面，请多多关照w"><br>
 你好呀，这里是廈奈关爱协会重点关注对象廈奈的小窝(个人博客)，初次见面，请多多关照w</p>
 <!-- more -->
 <h2 id="写在前面-关于恶魔喵moe">写在前面: 关于恶魔喵Moe</h2>
